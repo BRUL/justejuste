@@ -21,8 +21,8 @@ html {
 
 .logo {
     display: block;
-    margin: auto;
-    height: 3em;
+    height: 3rem;
+    margin: 0;
 }
 
 a.button {
@@ -39,7 +39,7 @@ a.button:hover {
     background-color: var(--color-primary);
 }
 
-.container img {
+img {
     max-width: 100%;
     display: block;
     margin: auto;
